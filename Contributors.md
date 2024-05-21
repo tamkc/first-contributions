@@ -40,6 +40,7 @@
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
   [STK](https://github.com/sherlock221B1)
 rashee
+- [Peter]
 - [Muhammed Favaz vp](https://github.com/favaz-vp)
 - [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
